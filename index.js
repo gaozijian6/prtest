@@ -1,1 +1,1 @@
-console.log(123456);
+let a=1
